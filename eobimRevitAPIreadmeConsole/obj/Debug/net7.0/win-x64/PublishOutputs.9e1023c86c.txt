@@ -1,0 +1,5 @@
+C:\Users\eduar\RevitAPI\eobimRevitAPIreadmeConsole\final\eobimRevitAPIreadmeConsole.exe
+C:\Users\eduar\RevitAPI\eobimRevitAPIreadmeConsole\final\eobimRevitAPIreadmeConsole.dll
+C:\Users\eduar\RevitAPI\eobimRevitAPIreadmeConsole\final\eobimRevitAPIreadmeConsole.deps.json
+C:\Users\eduar\RevitAPI\eobimRevitAPIreadmeConsole\final\eobimRevitAPIreadmeConsole.runtimeconfig.json
+C:\Users\eduar\RevitAPI\eobimRevitAPIreadmeConsole\final\eobimRevitAPIreadmeConsole.pdb

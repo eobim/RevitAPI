@@ -1,0 +1,15 @@
+C:\Users\eduar\RevitAPI\eobimRevitAPIreadmeConsole\obj\Debug\net7.0\win-x64\eobimRevitAPIreadmeConsole.csproj.AssemblyReference.cache
+C:\Users\eduar\RevitAPI\eobimRevitAPIreadmeConsole\obj\Debug\net7.0\win-x64\eobimRevitAPIreadmeConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\RevitAPI\eobimRevitAPIreadmeConsole\obj\Debug\net7.0\win-x64\eobimRevitAPIreadmeConsole.AssemblyInfoInputs.cache
+C:\Users\eduar\RevitAPI\eobimRevitAPIreadmeConsole\obj\Debug\net7.0\win-x64\eobimRevitAPIreadmeConsole.AssemblyInfo.cs
+C:\Users\eduar\RevitAPI\eobimRevitAPIreadmeConsole\obj\Debug\net7.0\win-x64\eobimRevitAPIreadmeConsole.csproj.CoreCompileInputs.cache
+C:\Users\eduar\RevitAPI\eobimRevitAPIreadmeConsole\bin\Debug\net7.0\win-x64\eobimRevitAPIreadmeConsole.exe
+C:\Users\eduar\RevitAPI\eobimRevitAPIreadmeConsole\bin\Debug\net7.0\win-x64\eobimRevitAPIreadmeConsole.deps.json
+C:\Users\eduar\RevitAPI\eobimRevitAPIreadmeConsole\bin\Debug\net7.0\win-x64\eobimRevitAPIreadmeConsole.runtimeconfig.json
+C:\Users\eduar\RevitAPI\eobimRevitAPIreadmeConsole\bin\Debug\net7.0\win-x64\eobimRevitAPIreadmeConsole.dll
+C:\Users\eduar\RevitAPI\eobimRevitAPIreadmeConsole\bin\Debug\net7.0\win-x64\eobimRevitAPIreadmeConsole.pdb
+C:\Users\eduar\RevitAPI\eobimRevitAPIreadmeConsole\obj\Debug\net7.0\win-x64\eobimRevitAPIreadmeConsole.dll
+C:\Users\eduar\RevitAPI\eobimRevitAPIreadmeConsole\obj\Debug\net7.0\win-x64\refint\eobimRevitAPIreadmeConsole.dll
+C:\Users\eduar\RevitAPI\eobimRevitAPIreadmeConsole\obj\Debug\net7.0\win-x64\eobimRevitAPIreadmeConsole.pdb
+C:\Users\eduar\RevitAPI\eobimRevitAPIreadmeConsole\obj\Debug\net7.0\win-x64\eobimRevitAPIreadmeConsole.genruntimeconfig.cache
+C:\Users\eduar\RevitAPI\eobimRevitAPIreadmeConsole\obj\Debug\net7.0\win-x64\ref\eobimRevitAPIreadmeConsole.dll
